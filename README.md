@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Krish Raval 👋
 
-<!--
-**krish-raval/krish-raval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grade 10 student from India interested in startups, technology, and building useful products.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Programming
+- Mathematics
+- Problem solving
+- Technology and startups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Future Projects
+- Python mini projects
+- Math tools
+- Automation scripts
+- Small apps and websites
+
+## 🎯 Goals
+- Build useful products
+- Learn deeply
+- Work with ambitious people
+
+## 📚 Interests
+- Startups
+- Technology
+- Programming
+- Finance

@@ -1,6 +1,6 @@
 # Hi, I'm Krish Raval 👋
 
-Grade 10 student from India interested in startups, technology, and building useful products.
+Grade 11 student from India interested in startups, technology, and building useful products.
 
 ## 🚀 Currently Learning
 - Programming
@@ -8,19 +8,12 @@ Grade 10 student from India interested in startups, technology, and building use
 - Problem solving
 - Technology and startups
 
-## 🛠 Future Projects
+## 🛠 Building
 - Python mini projects
-- Math tools
 - Automation scripts
-- Small apps and websites
+- Small apps and tools
 
 ## 🎯 Goals
 - Build useful products
 - Learn deeply
 - Work with ambitious people
-
-## 📚 Interests
-- Startups
-- Technology
-- Programming
-- Finance

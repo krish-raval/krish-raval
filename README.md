@@ -17,3 +17,6 @@ Grade 11 student from India interested in startups, technology, and building use
 - Build useful products
 - Learn deeply
 - Work with ambitious people
+
+## Let's connect!
+https://www.linkedin.com/in/ravalkrish/

@@ -14,8 +14,8 @@
 - **Founder, Digital Media Agency:** I handle client acquisition, systems management, and quality control, while outsourcing the actual video editing. 
 
 ### Background
-- **Academics:** Rigorous PCM (Physics, Chemistry, Mathematics) track.
-- **Athletics:** State-level Baseball & Softball. Currently transitioning into competitive Cricket. 
+- **Academics:** PCM (Physics, Chemistry, Mathematics) track.
+- **Athletics:** Former state-level Baseball & Softball. Currently transitioning into competitive Cricket. 
 
 ---
 
